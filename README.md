@@ -9,7 +9,7 @@ A collection of fun and simple mini-games built in Scratch. Includes platforming
 5. Easy to modify and learn from
 
 🕹️ How to Play
-1. Download the file:zip
+1. Download the file:
 2. gamebox.sb3
 3. Open scratch.mit.edu → Create
 4. Click File → Load from your computer
